@@ -1,0 +1,14 @@
+{
+  "name": "translate-gg-cn",
+  "version": "0.0.0",
+  "bin": {
+    "t": "cli.js",
+    "translate": "cli.js",
+    "translate-gg-cn": "cli.js"
+  },
+  "dependencies": {
+    "minimist": "^1.1.0",
+    "request": "^2.40.0",
+    "underscore": "^1.6.0"
+  }
+}
