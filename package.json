@@ -1,6 +1,6 @@
 {
   "name": "translate-gg-cn",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "bin": {
     "t": "cli.js",
     "translate": "cli.js",
