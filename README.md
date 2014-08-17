@@ -1,6 +1,6 @@
 # translate-gg-cn
 
-Translate your sentences with <translate.google.cn>
+Translate your sentences with translate.google.cn
 
 ## Usage
 
